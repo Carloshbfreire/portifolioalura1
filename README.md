@@ -1,4 +1,4 @@
-```
+
 
 # portifolioalura1
 Meu primeiro portifolio desenvolvido com os cursos de HTML e CSS da Alura
@@ -13,4 +13,4 @@ Meu primeiro portifolio desenvolvido com os cursos de HTML e CSS da Alura
 ### Carlos Henrique
 ### Linkedin: https://www.linkedin.com/in/carlos-henrique-freire-4697201b4/
 
-```
+
